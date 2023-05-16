@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Flip.cpp
+C:\Users\Michael.C\Documents\GitHub\CppImageFlip\src\ImageFlip\Flip.cpp(4,6): warning C4273: 'FlipImageVertically': inconsistent dll linkage
+C:\Users\Michael.C\Documents\GitHub\CppImageFlip\src\ImageFlip\Flip.h(9,26): message : see previous definition of 'FlipImageVertically'
+  Generating Code...
+  LINK : C:\Users\Michael.C\Documents\GitHub\CppImageFlip\src\x64\Debug\ImageFlip.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\Michael.C\Documents\GitHub\CppImageFlip\src\x64\Debug\ImageFlip.lib and object C:\Users\Michael.C\Documents\GitHub\CppImageFlip\src\x64\Debug\ImageFlip.exp
+  ImageFlip.vcxproj -> C:\Users\Michael.C\Documents\GitHub\CppImageFlip\src\x64\Debug\ImageFlip.dll
